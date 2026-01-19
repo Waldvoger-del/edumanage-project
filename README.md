@@ -1,24 +1,48 @@
-# EduManage Solutions – Project Management System
+# EduManage Solutions – System zarządzania projektami
 
-This repository contains documentation for the project
-"System zarządzania projektami – EduManage Solutions".
+Repozytorium zawiera dokumentację projektu
+„System zarządzania projektami – EduManage Solutions”.
 
-## Project description
-The goal of the project is to design and implement an online project
-management system supporting task planning, role management,
-and process control in an educational company.
+---
 
-## Tools used
-- Trello – task and workflow management
-- GitHub – version control system
+## Opis projektu
 
-## Project scope
-- Analysis of AS-IS processes
-- Design of TO-BE system
-- Task and role management
-- Testing and documentation
-- System deployment
+Celem projektu jest zaprojektowanie oraz wdrożenie systemu zarządzania projektami
+dla firmy edukacyjnej EduManage Solutions.
+System wspiera planowanie zadań, zarządzanie rolami użytkowników
+oraz kontrolę przebiegu procesów projektowych.
 
-## Author
-EduManage Solutions project
+---
 
+## Zakres projektu
+
+Projekt obejmuje:
+- analizę procesów AS-IS
+- identyfikację interesariuszy
+- zaprojektowanie modelu TO-BE
+- podział ról użytkowników
+- zarządzanie zadaniami i przepływem pracy
+- dokumentację oraz instrukcję użytkownika
+
+---
+
+## Wykorzystane narzędzia
+
+- **Trello** – zarządzanie zadaniami i przepływem pracy
+- **GitHub** – kontrola wersji oraz dokumentacja projektu
+
+---
+
+## Struktura repozytorium
+
+- `README.md` – opis projektu
+- `documentation.md` – dokumentacja systemu
+- `tutorial.md` – instrukcja użytkownika
+
+---
+
+## Podsumowanie
+
+Projekt został zrealizowany zgodnie z wymaganiami przedmiotu
+„Zarządzanie projektami w IT” i prezentuje praktyczne zastosowanie
+narzędzi do zarządzania projektami oraz kontroli wersji.
